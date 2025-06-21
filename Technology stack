@@ -1,0 +1,13 @@
+🖥️ Technology Stack
+
+1. Django
+
+A high-level Python web framework used for building secure and maintainable web applications. In this project, Django is used to handle the backend logic and to build RESTful APIs.
+
+2. PostgreSQL
+
+An advanced open-source relational database. In this project, it’s used to store and manage the application’s data securely and efficiently.
+
+3. GraphQL
+
+A query language for APIs. It allows the client to request only the data it needs, making the app more efficient and faster compared to traditional REST APIs.
