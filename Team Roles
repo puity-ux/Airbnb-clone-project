@@ -1,0 +1,34 @@
+Business Analyst (BA)
+	•	Role: Bridge between business needs and technical solutions.
+	•	Responsibility: Gathers and analyzes business requirements, translates them into technical specs, and ensures the final product aligns with business goals.
+
+Product Owner (PO)
+	•	Role: Voice of the customer within the team.
+	•	Responsibility: Owns the product backlog, defines features, sets priorities, and ensures the development team builds the right thing.
+
+ Product Manager
+	•	Role: Oversees the product’s overall vision and strategy.
+	•	Responsibility: Defines product goals, market strategy, and long-term roadmap. Aligns business objectives with user needs.
+
+ UI/UX Designer
+	•	Role: Focuses on user interface and experience.
+	•	Responsibility: Designs user-friendly, visually appealing layouts. Ensures the product is intuitive, accessible, and delightful to use.
+
+Software Architect
+	•	Role: High-level technical planner.
+	•	Responsibility: Designs the system architecture, sets coding standards, selects tech stack, and ensures scalability, security, and performance.
+
+Software Developer (Frontend/Backend/Full Stack)
+	•	Role: Code builders of the product.
+	•	Responsibility: Write, test, and maintain code to implement features and fix bugs. Backend devs focus on server logic; frontend devs handle interfaces; full stack does both.
+
+Quality Assurance (QA) Engineer
+	•	Role: Guardian of product quality.
+	•	Responsibility: Manually test features to identify bugs, ensure functionality works as expected, and that it meets requirements.
+
+Test Automation Engineer
+	•	Role: Automates repetitive testing.
+	•	Responsibility: Writes scripts and builds automated tests to speed up testing, improve coverage, and detect regressions early.
+ DevOps Engineer
+	•	Role: Operations meets development.
+	•	Responsibility: Manages infrastructure, deployment pipelines, and CI/CD. Ensures the app runs smoothly in production with minimal downtime.
