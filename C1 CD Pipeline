@@ -1,0 +1,15 @@
+CI/CD Pipelines and Their Importance
+
+CI/CD stands for Continuous Integration and Continuous Deployment/Delivery. It is a development practice where code changes are automatically built, tested, and deployed. CI/CD pipelines help teams deliver software faster and more reliably by automating repetitive tasks like testing and deployment.
+
+💡 Why CI/CD is Important
+	•	Ensures code quality by automatically testing new changes.
+	•	Speeds up development by reducing manual work.
+	•	Reduces bugs in production by catching issues early.
+	•	Supports collaboration by allowing multiple developers to push updates smoothly.
+
+🛠️ Common CI/CD Tools
+	•	GitHub Actions – Automates workflows directly from your GitHub repo.
+	•	Docker – Creates lightweight containers to run your app consistently across environments.
+	•	Jenkins – A powerful automation server for building and deploying projects.
+	•	CircleCI / Travis CI – Cloud-based CI/CD tools for testing and deployment.
