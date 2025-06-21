@@ -1,0 +1,31 @@
+
+
+🧩 Key Entities and Their Fields
+
+1. User
+	•	Fields: id, name, email, password, role (host or guest)
+	•	Relationship: A user can own multiple properties and make multiple bookings. Users can also leave reviews.
+
+
+
+2. Property
+	•	Fields: id, title, description, location, owner_id
+	•	Relationship: A property belongs to a user (host). It can have many bookings and many reviews.
+
+
+
+3. Booking
+	•	Fields: id, user_id, property_id, check_in, check_out
+	•	Relationship: A booking is made by a user and belongs to a specific property.
+
+
+
+4. Review
+	•	Fields: id, user_id, property_id, rating, comment
+	•	Relationship: A user can leave a review for a property. A property can have many reviews.
+
+
+
+5. Payment
+	•	Fields: id, user_id, booking_id, amount, payment_date
+	•	Relationship: A payment is linked to a booking and made by a user.
